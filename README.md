@@ -36,7 +36,6 @@ I'm a passionate AI enthusiast with a keen interest in the mysteries of artifici
 - **Console Fencing Game:** [Fancy Fencing](https://github.com/realComlan/fancy-fencing)
 
 ## 📞 Contact Me
-- **Email:** camouwotor@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **GitHub:** [@realComlan](https://github.com/realComlan)
 

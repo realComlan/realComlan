@@ -5,7 +5,7 @@ I'm a passionate AI enthusiast with a keen interest in the mysteries of artifici
 
 🏠 **Location:** Ile-de-France, France
 
-📚 **Studying:** Master's in Distributed Artificial Intelligence at Université Paris Cité
+📚 **Studying:** Master's in Distributed Artificial Intelligence @ Université Paris Cité
 
 🔍 **Interests:** Fitness, Music, Competitions, Travel, Academic Research
 

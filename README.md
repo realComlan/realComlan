@@ -10,9 +10,9 @@ I'm a passionate AI enthusiast with a keen interest in the mysteries of artifici
 🔍 **Interests:** Fitness, Music, Competitions, Travel, Academic Research
 
 ## 📈 Skills
-- **Programming Languages:** Python, R, Java, C++, Prolog, ExpressJS, TypeScript, ReactJS, 
+- **Programming Languages:** Python, R, Java, C++, Prolog
 - **Frameworks & Libraries:** Keras, TensorFlow, PySpark, PySpark, OpenGym, JADE, Flutter
-- **AI/ML Technologies:** LLM, GAN, VAE, CNN, RNN, SMA, KQML, PDDL, CSP
+- **AI/ML Technologies:** LLM, GAN, VAE, CNN, RNN, SMA, PDDL, CSP
 - **Databases:** MySQL, MongoDB, PostGreSQL
 - **Other:** Probability/Statistics, Game Theory
 
@@ -21,7 +21,6 @@ I'm a passionate AI enthusiast with a keen interest in the mysteries of artifici
 
 ## 💼 Professional Experience
 - **Maths Teacher** at Acadomia & Completude, Paris, France (Oct. 2022 – Present)
-- **Volunteer Tutor** with AFEV, Paris, France (Nov. 2023 – Present)
 - **Quality Assurance Internship in AI** at NetEase, Beijing, China (Oct. 2019 – Jan. 2020)
 
 ## 🎓 Education
